@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 282" role="img" aria-labelledby="title">
+<title id="title">一个工作台，从安排任务到导师复盘</title>
+<rect width="960" height="282" rx="26" fill="#111a17"/>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<text x="36" y="58" font-size="34" font-weight="700" fill="#f2faf5">一个工作台，从安排任务到导师复盘</text>
+<path d="M36 82H924" stroke="#5d786a"/>
+<rect x="36" y="105" width="278" height="139" rx="18" fill="#e8f6ef"/>
+<rect x="341" y="105" width="278" height="139" rx="18" fill="#d1eee2"/>
+<rect x="646" y="105" width="278" height="139" rx="18" fill="#b6e3d2"/>
+<g font-size="29" font-weight="700" fill="#102c23">
+<text x="60" y="158">安排今天</text><text x="365" y="158">整理想法</text><text x="670" y="158">请导师打分</text>
+</g>
+<g font-size="18" fill="#315347">
+<text x="60" y="201">今日待办 · 本周项目</text><text x="365" y="201">灵感评分 · 剪藏成笔记</text><text x="670" y="201">七种视角 · 下一步建议</text>
+</g>
+</g>
+</svg>
