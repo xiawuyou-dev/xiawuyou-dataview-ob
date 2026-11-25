@@ -1,0 +1,26 @@
+.wuyou-board{--file-line-width:1250px}
+.wy-shell{background:#1c1e1d;color:#111518;border-radius:18px;padding:16px}
+.wy-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:0 0 14px;color:#f3f6f2}
+.wy-head h1{color:inherit;margin:0;margin-right:auto}
+.wy-head a{color:#a9e4ce}
+.wy-state{font-size:12px;max-width:320px}
+.wy-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.wy-card{background:#fbfcfb;color:#141917;padding:18px;border-radius:18px;min-width:0;overflow-wrap:anywhere}
+.wy-card h2{font-size:18px;margin:0 0 10px;color:inherit}
+.wy-card a{color:#21694f;font-weight:600}
+.wy-card form{display:flex;gap:8px;margin:12px 0}
+.wy-card form input,.wy-card textarea{flex:1;min-width:0;width:100%}
+.wy-card button,.wy-head button{--interactive-normal:#397d66;--text-normal:#fff;color:#fff;background:#397d66}
+.wy-card p{margin:7px 0}
+.wy-task{display:flex;gap:10px;align-items:start;margin:8px 0}
+.wy-task input{flex:none}
+.wy-num{font-weight:750;font-size:clamp(24px,4vw,56px);line-height:1.18}
+.wy-muted{font-size:13px;opacity:.72}
+.wy-row{border-top:1px solid #a3afa74d;padding:8px 0}
+.wy-wide{grid-column:span 2}
+.wy-mint{background:#d6ede5}
+.wy-dark{color:#eef5ef;background:#101412}
+.wy-dark a{color:#a3dbc3}
+.wy-result{white-space:pre-wrap;color:inherit;background:transparent}
+@media(max-width:780px){.wy-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:490px){.wy-grid{grid-template-columns:1fr}.wy-wide{grid-column:auto}}

@@ -1,0 +1,5 @@
+# 今日AI圈
+
+```dataviewjs
+await dv.view("工作看板/运行文件/组件", {page: "今日AI圈"});
+```

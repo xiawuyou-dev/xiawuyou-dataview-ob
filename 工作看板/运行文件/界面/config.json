@@ -1,0 +1,16 @@
+{
+  "dailyDir": "工作看板/每日与每周",
+  "weeklyDir": "工作看板/每日与每周",
+  "weeklyPrefix": "周-",
+  "planPath": "工作看板/运行文件/数据/AI学习路线.md",
+  "xhsDir": "工作看板/小红书项目",
+  "todoPath": "知识库/灵感/灵感.md",
+  "dailyTemplate": "工作看板/运行文件/界面/今日模板.md",
+  "weeklyTemplate": "工作看板/运行文件/界面/本周模板.md",
+  "fontDir": "工作看板/运行文件/界面/字体",
+  "newsFile": "工作看板/运行文件/数据/今日AI圈.json",
+  "ideasChatId": "",
+  "ideasSyncFrom": "",
+  "news": true,
+  "newsReadOnly": false
+}
